@@ -1,7 +1,7 @@
 ---
 name: skillurgy
 description: "Use when creating, governing, or evaluating AI skills (SKILL. 当需要创造、治理或评估 AI 技能（SKILL.md），要求可插拔、可验证、可审计时使用。"
-license: ARR
+license: apache-2.0
 type: term-registration
 namespace: lgd.terms
 version: v1.1
